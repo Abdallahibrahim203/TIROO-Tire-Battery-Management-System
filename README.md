@@ -95,4 +95,4 @@ TIROO/
 
 ## 🎓 About
 
-Business Intelligence Track | ITI Graduation Project | Class of 2025
+Business Intelligence Track | ITI Graduation Project | Class of 2026
